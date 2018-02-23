@@ -9,7 +9,7 @@
 
 ### Experience
 
-- __Architizer__ Software Engineer, 2017 - Present, New York, NY
+- __Architizer__ Software Engineer - Technical Lead, 2017 - Present, New York, NY
 
 	Developing "Source" (A building materials sourcing platform for architects) using technologies such as Angular.js, React, GraphQL, Node.js & Django
  
@@ -35,7 +35,8 @@
 	
 - __Parsons The New School for Design__ Research Assistant, 2012 - 2013, New York, NY 
 
-	Prototyping interactive infographics for a Stem Cell educational curriculum.	
+	Prototyping interactive infographics for a Stem Cell educational curriculum.
+	
 - __Parsons The New School for Design__ Graduate Teaching Fellow, 05.2012 - 08.2012, New York, NY
 
 	Co-designing and teaching a graduate level curriculum of web design and development, Leading a class of 12 incoming graduate students.
