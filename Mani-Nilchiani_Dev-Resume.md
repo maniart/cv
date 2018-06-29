@@ -58,7 +58,7 @@
 ### Skills
 - __Web Technologies__ 
 
-	Fluent in JavaScript (ES6), TDD, React ecosystem (React, Redux, GraphQL), Node.js, Angular 1.x, Backbone.js, Build tools, OOP and Functional paradigms, Interactive audiovisual development (Canvas, WebAudio API, WebVR). 
+	Fluent in JavaScript, TDD, React ecosystem (React, Redux, GraphQL), Node.js, Angular 1.x, Backbone.js, Build tools, OOP and Functional paradigms, Interactive audiovisual development (Canvas, WebAudio API, WebVR). 
 	
 	Proficient in HTML and various templating engines, CSS & preprocessors, UI frameworks
 
