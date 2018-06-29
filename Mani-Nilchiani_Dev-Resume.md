@@ -1,7 +1,7 @@
 ### Mani Nilchiani
 - [mani.io](http://mani.io)
 - [github.com/maniart](http://github.com/maniart)
-- [mani.art@gmail.com](mailto:mani.art@gmail.com)
+- [mani.nilchiani@gmail.com](mailto:mani.art@gmail.com)
 
 ### Education
 - __MFA__ Design & Technology, Parsons The New School for Design, New York, NY - 2013
@@ -9,9 +9,9 @@
 
 ### Experience
 
-- __Architizer__ Software Engineer - Technical Lead, 2017 - Present, New York, NY
+- __Architizer__ Software Engineer - Technical Lead, July 2017 - July 2018, New York, NY
 
-	Developing "Source" (A building materials sourcing platform for architects) using technologies such as Angular.js, React, GraphQL, Node.js & Django
+	Developing "Source" (A building materials sourcing platform for architects) using technologies such as Angular.js, React, Redux, GraphQL, Apollo, Node.js, Next.js & Django
  
 - __Yieldmo__ Frontend Engineer, 2015 - 2017, New York NY
 
