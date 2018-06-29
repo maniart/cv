@@ -9,6 +9,10 @@
 
 ### Experience
 
+- __Pioneer Works__ Technology Resident - July 2018 - Current, New York, NY
+
+	Developing a speculative near-future interactive narrative around surveillance, privacy and related economies in VR, along with collaborator [Caroline Sinders](https://carolinesinders.com/)
+
 - __Architizer__ Software Engineer - Technical Lead, July 2017 - July 2018, New York, NY
 
 	Developing "Source" (A building materials sourcing platform for architects) using technologies such as Angular.js, React, Redux, GraphQL, Apollo, Node.js, Next.js & Django
