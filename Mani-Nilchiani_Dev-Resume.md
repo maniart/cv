@@ -1,7 +1,7 @@
 ### Mani Nilchiani
 - [mani.io](http://mani.io)
 - [github.com/maniart](http://github.com/maniart)
-- [mani.nilchiani@gmail.com](mailto:mani.art@gmail.com)
+- [mani.nilchiani@gmail.com](mailto:mani.nilchiani@gmail.com)
 
 ### Education
 - __MFA__ Design & Technology, Parsons The New School for Design, New York, NY - 2013
