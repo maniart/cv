@@ -70,7 +70,7 @@
 	
 	Proficient in Git, SQL & NoSQL Databases
 	
-	Experience with PHP, Python (Django), OpenFrameworks (C++), Processing (Java), Physical Computing (Arduino, Tessel, Raspberry PI), Interactive prototyping with Kinect, LEAP Motion, Shell scripting, CI/CD, NGINX
+	Experience with Photogrammetry, PHP, Python (Django), Unity, C#, OpenFrameworks (C++), Processing (Java), Physical Computing (Arduino, Tessel, Raspberry PI), Interactive prototyping with Kinect, LEAP Motion, Shell scripting, CI/CD, NGINX
 
 ### Languages
 - English (Fluent)
