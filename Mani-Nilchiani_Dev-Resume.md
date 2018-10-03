@@ -15,7 +15,7 @@
 
 - __Architizer__ Technical Lead - Software Engineering, July 2017 - July 2018, New York, NY
 
-	Developed an online marketplace for building materials. Oversaw and coordinated gradual migration from a legacy codebase to a modern server-side rendered React stack.
+	Developed an online marketplace for the construction industry. Oversaw and coordinated gradual migration from a legacy codebase to a modern server-side rendered React stack.
  
 - __Yieldmo__ Frontend Engineer, 2015 - 2017, New York NY
 
