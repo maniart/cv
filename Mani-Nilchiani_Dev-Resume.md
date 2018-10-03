@@ -60,7 +60,7 @@
 
 - __Design__  UX/UI Design, Wireframing, User Testing, Adobe Design Suite
 
-- __Other__  Proficient in Git, SQL & NoSQL Databases 
+- __Other__  Proficient in Git. Experience with SQL & NoSQL Databases. 
 	Some experience with Flow, PHP, Python (Django), Unity, C#, Rust, OpenFrameworks (C++), Processing (Java), Physical Computing (Arduino, Tessel, Raspberry PI), Interactive prototyping with Kinect, LEAP Motion, Shell scripting, CI/CD, NGINX
 
 ### Other Activities
