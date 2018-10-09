@@ -61,7 +61,7 @@
 - __Design__  UX/UI Design, Wireframing, User Testing, Adobe Design Suite
 
 - __Other__  Proficient in Git. Experience with SQL & NoSQL Databases. 
-	Some experience with Flow, PHP, Python (Django), Unity, C#, Rust, OpenFrameworks (C++), Processing (Java), Physical Computing (Arduino, Tessel, Raspberry PI), Interactive prototyping with Kinect, LEAP Motion, Shell scripting, CI/CD, NGINX
+	Some experience with React Native, Flow, PHP, Python (Django), Unity, C#, Rust, OpenFrameworks (C++), Processing (Java), Physical Computing (Arduino, Tessel, Raspberry PI), Interactive prototyping with Kinect, LEAP Motion, Shell scripting, CI/CD, NGINX
 
 ### Other Activities
 - Co-founder of [Disco Tehran](http://discotehran.nyc), a monthly live music series that features a local and international line-up of bands and DJ's from the NYC area.
