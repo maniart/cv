@@ -9,6 +9,10 @@
 
 ### Experience
 
+- __IDEO__ Software Design Lead, January 2019 - Current, New York, NY
+
+	Working with multidisciplinary team of designers on various internal and client-facing projects, advising and leading technology for prototyping, building and testing concepts.
+	
 - __Pioneer Works__ Technology Resident, July 2018 - Current, New York, NY
 
 	Developing a speculative near-future VR interactive narrative about surveillance & privacy using Unity and Oculus Rift / Go.
