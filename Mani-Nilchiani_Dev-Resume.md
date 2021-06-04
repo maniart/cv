@@ -11,58 +11,69 @@
 
 - __IDEO__ Software Design Lead, January 2019 - Current, New York, NY
 
-	Working with multidisciplinary team of designers on various internal and client-facing projects, advising and leading technology for prototyping, building and testing concepts.
+	- Working in close collaboration with multidisciplinary teams of designers and stakeholders to prototype, test and build well-designed fullstack software solutions.
+	- Coordinating work streams and priorities on tight timelines and across multiple locations and timezones to ensure high quality and timely delivery of non-trivial software projects.
+	- Rapidly prototyping software concepts for quantitative and qualitative user testing.
+	- Co-developing feature sets with client engineering teams. Leading knowledge transfer, documentation and hand off efforts for new and nascent software products.
+	- Proposing and developing internal software tools to streamline workflow and knowledge management at IDEO.
+
 	
 - __Pioneer Works__ Technology Resident, July 2018 - October 2018, New York, NY
 
-	Developing a speculative near-future VR interactive narrative about surveillance & privacy using Unity and Oculus Rift / Go.
+	- Prototyped, built and exhibited an interactive Virtual Reality film titled "Dark Patterns" which examines a speculative future where privacy is traded as currency.
+	- Quickly developed a working knowledge of Unity and C# targetting Oculus Rift / Go with no prior experience.
+	- Worked closesly in collaboration with a co-creator and writer, learned and used novel volumetric capture techniques
 
 - __Architizer__ Technical Lead - Software Engineering, July 2017 - July 2018, New York, NY
 
-	Developed an online marketplace for the construction industry. Oversaw and coordinated gradual migration from a legacy codebase to a modern server-side rendered React stack.
+	- Wrote and shipped modular and well-tested isomorphic React code  
+	- Worked closely with product managers and designers to plan and execute agile sprints 
+	- Helped the engineering team to identify productivity impediments in tooling, development workflow and development technology.
+	- Created a detailed proposal for gradual migration of obsolete front-end technology through an RFC process, presented to stakeholders and led the successful planning and execution of the plan.
+	- Led knowledge sharing and learning initiative for React and related technologies in the broader engineering team which allowed for front-end and back-end developers to prodictively contribute to the codebase.   
+	- Hosted talks and meetups by external engineering leaders and local JavaScript community to promote the culture in the product organization.
+
  
 - __Yieldmo__ Frontend Engineer, 2015 - 2017, New York NY
+	
+	- Built, shipped and maintained internal A/B testing and reporting software in close collaboration with product designers, with a focus on exceptional user experience.
+	- Maintained and contributed to gradual improvement of legacy business software
 
-	Built data driven web applications for internal and external clients with focus on good usability. Worked in close collaboration with product designers, back-end engineers and product managers.
-
-- __New Centre for Research & Practice__ Lecturer, 2015, New York, NY
-
-	Designed and taught a curriculum titled "Internet as Platform, Programming as Medium", focusing on JavaScript for creative coding.
 
 - __VeeSee.co__ Co-Founder & Fullstack Developer, 2014 - 2015, New York, NY
 
-	Designed and developed of a Node.js app to streamline deal tracking and valuation for venture capitalists.
+	- Designed and developed of a Node.js app to streamline deal tracking and valuation for venture capitalists.
 
 - __The Daily Beast__ Frontend Engineer, 2013 - 2015, New York, NY
 
-	Developed and maintained front-end modules for mobile and desktop News products, helped migrate from a legacy custom JavaScript framework to React.
+	- Developed and maintained front-end modules for mobile and desktop News products
+	- Helped migrate from a legacy jQuery-based custom JavaScript framework to React.
 	
-- __Personal Studio Practice__ Artist & technologist, 2010 - Current
 
-	Ideating and building interactive installations and New Media art pieces. Designing and running workshops on creative computation. Exhibiting in solo and group settings in Iran, U.S., Canada, Australia, Germany and Indonesia.
+### Academic Experience
+- __Parsons The New School for Design__ Part-time Faculty, 2014 & 2018, New York, 
 
-### Academia Experience
+	Designed and taught a graduate web development course focused on JavaScript, covering:
+	- Core language concepts
+	- Best practices
+	- Design patterns & MV* architecture
+	- RESTful back-end development with Node.js and MongoDB.
+	
 - __ScriptEd__ Volunteer Teacher, 2014 - 2015
 	
 	Co-taught a curriculum of web development to a class of 16 students at High School for Global Citizenship, Brooklyn, NY Curriculum includes: HTML, CSS and JavaScript.
-- __Parsons The New School for Design__ Part-time Faculty, 2014, New York, NY
-	
-	Instructor of a graduate web development course focused on JavaScript. Covered core concepts, best practices, design patterns, MV* architecture, Package Management and RESTful back-end development with Node.js and MongoDB.
-	
-- __Parsons The New School for Design__ Research Assistant, 2012 - 2013, New York, NY 
 
-	Prototyped interactive infographics for a Stem Cell educational curriculum.
-	
-- __Parsons The New School for Design__ Graduate Teaching Fellow, 2012, New York, NY
 
-	Co-designed and taught a web design and development class of 12 incoming graduate students.
-	
+- __New Centre for Research & Practice__ Lecturer, 2015, New York, NY
+
+	Designed and taught a curriculum titled "Internet as Platform, Programming as Medium", focusing on JavaScript for creative coding to artist without prior programming experience.
+		
 ### Skills
-- __Web Technologies__ Fluent in JavaScript, TDD, React ecosystem (React, Redux, GraphQL, Next.js), Node.js, AngularJS, Backbone, Build tools, OOP and Functional paradigms, Interactive audiovisual development (Canvas, WebAudio API, WebVR). 
+- __Web Technologies__ Fluent in JavaScript, TDD, React ecosystem (React, Redux, GraphQL, Next.js), Node.js, AngularJS, Backbone, Build tools, OOP and Functional paradigms, Interactive audiovisual development (Canvas, WebAudio API, WebGL, WebVR). 
 	
 	Proficient in HTML and various templating engines, CSS & preprocessors, UI frameworks
 
-- __Design__  UX/UI Design, Wireframing, User Testing, Adobe Design Suite
+- __Design__  UX/UI Design, Wireframing, User Testing, Adobe Design Suite, Figma
 
 - __Other__  Proficient in Git. Experience with SQL & NoSQL Databases. 
 	Some experience with React Native, Flow, PHP, Python (Django), Unity, C#, Rust, OpenFrameworks (C++), Processing (Java), Physical Computing (Arduino, Tessel, Raspberry PI), Interactive prototyping with Kinect, LEAP Motion, Shell scripting, CI/CD, NGINX
