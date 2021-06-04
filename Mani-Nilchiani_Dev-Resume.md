@@ -69,18 +69,25 @@
 	Designed and taught a curriculum titled "Internet as Platform, Programming as Medium", focusing on JavaScript for creative coding to artist without prior programming experience.
 		
 ### Skills
-- __Web Technologies__ Fluent in JavaScript, TDD, React ecosystem (React, Redux, GraphQL, Next.js), Node.js, AngularJS, Backbone, Build tools, OOP and Functional paradigms, Interactive audiovisual development (Canvas, WebAudio API, WebGL, WebVR). 
+- __Web Technologies__ 
+
+	**Proficient in** 
+	- Front-end: Isomorphic React, State management, GraphQL, TDD, Tooling, Interactive audiovisual development (Data Visualization, WebGL, WebVR), React Native. HTML, CSS and related templating engines and preprocessors. 
+	- Back-end: Node.js API development, NoSQL and SQL databases, Serverless technologies with AWS lambdas and gateways
+	- Other: CI/CD, Git workflows, NGINX
 	
-	Proficient in HTML and various templating engines, CSS & preprocessors, UI frameworks
+	**Prior exposure to** 
+	
+	Go, C#, PHP, Python, OpenFrameworks (C++ Creative Coding library), Processing (Java-based Creative Coding library), Docker, Arduino
+	
 
 - __Design__  UX/UI Design, Wireframing, User Testing, Adobe Design Suite, Figma
+- __Sound__ Logic Pro, Ableton Live
 
-- __Other__  Proficient in Git. Experience with SQL & NoSQL Databases. 
-	Some experience with React Native, Flow, PHP, Python (Django), Unity, C#, Rust, OpenFrameworks (C++), Processing (Java), Physical Computing (Arduino, Tessel, Raspberry PI), Interactive prototyping with Kinect, LEAP Motion, Shell scripting, CI/CD, NGINX
 
 ### Other Activities
 - Co-founder of [Disco Tehran](http://discotehran.nyc), a monthly live music series that features a local and international line-up of bands and DJ's from the NYC area.
 - Singer, songwriter and guitarist for Tan Haw band, a Brooklyn-based Iranian folk rock project.
 
 ### Languages
-English (Fluent), Farsi (Native), French (Intermediate), Arabic (Basic)
+English (Fluent), Farsi (Native), French (Intermediate), Spanish (Intermediate), Arabic (Basic)
